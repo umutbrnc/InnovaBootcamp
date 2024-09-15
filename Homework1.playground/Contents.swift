@@ -1,0 +1,50 @@
+//  HOMEWORK1
+//  Umut Birinci
+
+let county : String = "Atasehir"
+let continent : String = "Asia"
+let fax : Int32 = 123123
+var username : String = "umutbrnc"
+var department : String = "Information Technologies"
+var count : Int = 12
+let customerSurname : String = "Birinci"
+var paymentAmount : Double = 49.7
+let dateOfBirth : String = "22.12.1999"
+var debt : Double = 330.4
+let civilStatus : String = "Single"
+var videoComment : String = "Awesome"
+let paymentTime : String = "15:30"
+var eftAmount : Int = 5000
+let soldAmount : Int = 3000
+let phoneModel : String = "iPhone SE"
+let magazineName : String = "How it works"
+let printingDay : String = "15.09.2024"
+let increaseAmount : Int = 3000
+let numberOfFlats : Int = 12
+let latitude : Double = 45.623423
+let longitude : Double = 78.234234
+let foodName : String = "Pasta"
+var productPrice : Float = 89.99
+let company = "Innova"
+let videoName = "IOS Bootcamp"
+let musicDurationMin = 75
+var placeScore : Float = 4.2
+var fileName = "Umut_Birinci.playground"
+var imageFormat = "jpeg"
+let color = "purple"
+let colorCode : String = "#12F4A27"
+let computerModel = "Macbook'Air M2-Chip"
+let screenSize = "13.6'Inch"
+var usageTime : Float = 36.5
+var pressure : Double = 2.9182379817
+let eventDay = "15.09.2024"
+let paymentDay = "15.09.2024"
+let tripDepartureDate = "25.09.2024"
+let neighborhoodName = "Atasehir"
+let busLine = "8A"
+var usedMin = 47
+let cargoTrackingNumber : UInt = 82376482736
+let couponPeriod = "15.09.2024"
+let couponCode = "BTK"
+let invoiceDate = "15.09.2024"
+
